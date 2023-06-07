@@ -1,0 +1,14 @@
+names:
+- Bike
+- Bus
+- Car
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: upwork-job
+  url: https://universe.roboflow.com/upwork-ii1oe/upwork-job/dataset/3
+  version: 3
+  workspace: upwork-ii1oe
+test: ../test/images
+train: Upwork-job-3/train/images
+val: Upwork-job-3/valid/images
