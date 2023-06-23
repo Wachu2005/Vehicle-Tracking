@@ -1,7 +1,7 @@
 # Vehicle Detection and Tracking with Storing coordinates in CSV file.
 
 
-## Discription
+## Description
 
 The objective of my project was to detect different vehicles (car, bike, bus) and store their X and Y coordinates to make futher script that check if the student gone over the line.
 I annotated single frames from video sample to get data for training.
